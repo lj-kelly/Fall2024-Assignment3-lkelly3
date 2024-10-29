@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movieactor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movieactor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movieactor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movieactor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movieactor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movieactor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movieactor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movieactor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movieactor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movieactor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\controllers\\movieactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:controllers\\movieactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\actors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|c:\\comp sci\\cs330\\p3\\fall2024-assignment3-lkelly3\\models\\actors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D4B5E3-EFC5-485A-9815-6D689130788F}|Fall2024-Assignment3-lkelly3.csproj|solutionrelative:models\\actors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:37:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e9d26e9f-2060-4aa2-bec3-2a9e07c66900}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Delete.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Delete.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:27:28.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Details.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Details.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:26:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Edit.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:26:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Create.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Create.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:25:08.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Index.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\MovieActor\\Index.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:01:08.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieActorController.cs",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Controllers\\MovieActorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieActorController.cs",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Controllers\\MovieActorController.cs",
+              "RelativeToolTip": "Controllers\\MovieActorController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv60AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:53:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Actors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Edit.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Actors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T21:32:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Actors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Details.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Actors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T21:31:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Actors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Delete.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Actors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T21:33:46.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:29:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:28:51.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:27:57.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:25:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:15:11.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Models\\Movies.cs",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Models\\Movies.cs",
+              "RelativeToolTip": "Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:10:27.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Models\\MovieActor.cs",
+              "RelativeDocumentMoniker": "Models\\MovieActor.cs",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Models\\MovieActor.cs",
+              "RelativeToolTip": "Models\\MovieActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:09:31.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "Controllers\\ActorsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:36:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Actors.cs",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Models\\Actors.cs",
+              "RelativeDocumentMoniker": "Models\\Actors.cs",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P3\\Fall2024-Assignment3-lkelly3\\Models\\Actors.cs",
+              "RelativeToolTip": "Models\\Actors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:17:50.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
