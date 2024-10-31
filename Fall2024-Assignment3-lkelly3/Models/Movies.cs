@@ -12,5 +12,7 @@ namespace Fall2024_Assignment3_lkelly3.Models
         public string Genre { get; set; }
         public int Year { get; set; }
         public byte[]? Poster { get; set; }
+        
+        
     }
 }

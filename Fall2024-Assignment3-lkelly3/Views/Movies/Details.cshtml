@@ -1,4 +1,4 @@
-﻿@model Fall2024_Assignment3_lkelly3.Models.Movies
+﻿@model Fall2024_Assignment3_lkelly3.Models.MoviesDetailsViewModel
 
 @{
     ViewData["Title"] = "Details";
@@ -11,38 +11,98 @@
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Title)
+            @Html.DisplayNameFor(model => Model.Movie.Title)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Title)
+            @Html.DisplayFor(model => Model.Movie.Title)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Link)
+            @Html.DisplayNameFor(model => Model.Movie.Link)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Link)
+            @Html.DisplayFor(model => Model.Movie.Link)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Genre)
+            @Html.DisplayNameFor(model => Model.Movie.Genre)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Genre)
+            @Html.DisplayFor(model => Model.Movie.Genre)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Year)
+            @Html.DisplayNameFor(model => Model.Movie.Year)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Year)
+            @Html.DisplayFor(model => Model.Movie.Year)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Poster)
+            @Html.DisplayNameFor(model => Model.Movie.Poster)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Poster)
+            @if (Model.Movie.Poster != null)
+            {
+                var base64 = Convert.ToBase64String(Model.Movie.Poster);
+                var imgSrc = String.Format("data:image/jpg;base64,{0}", base64);
+                <img src="@imgSrc" height="100" width="100" />
+            }
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <h3>
+        Actors
+    </h3>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Actors)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Actors)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Actors" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-controller="Actors" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-controller="Actors" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+<h4>
+    Reviews and Rating
+</h4>
+<h5>
+    Overall Rating: @Model.Sentiment
+</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Review</th>
+            <th>Sentiment</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var review in Model.Reviews)
+        {
+            <tr>
+                <td>@review.ReviewText</td>
+                <td>@review.SentimentAnalysis</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Movie.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>
 </div>

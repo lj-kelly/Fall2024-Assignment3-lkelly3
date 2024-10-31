@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Fall2024_Assignment3_lkelly3.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241028171127_m2")]
-    partial class m2
+    [Migration("20241030165418_db")]
+    partial class db
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

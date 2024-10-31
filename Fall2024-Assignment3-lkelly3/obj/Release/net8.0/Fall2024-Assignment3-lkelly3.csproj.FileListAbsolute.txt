@@ -269,3 +269,4 @@ C:\Comp Sci\CS330\P3\Fall2024-Assignment3-lkelly3\obj\Release\net8.0\refint\Fall
 C:\Comp Sci\CS330\P3\Fall2024-Assignment3-lkelly3\obj\Release\net8.0\Fall2024-Assignment3-lkelly3.pdb
 C:\Comp Sci\CS330\P3\Fall2024-Assignment3-lkelly3\obj\Release\net8.0\Fall2024-Assignment3-lkelly3.genruntimeconfig.cache
 C:\Comp Sci\CS330\P3\Fall2024-Assignment3-lkelly3\obj\Release\net8.0\ref\Fall2024-Assignment3-lkelly3.dll
+C:\Comp Sci\CS330\P3\Fall2024-Assignment3-lkelly3\obj\Release\net8.0\Fall2024-Assignment3-lkelly3.sourcelink.json

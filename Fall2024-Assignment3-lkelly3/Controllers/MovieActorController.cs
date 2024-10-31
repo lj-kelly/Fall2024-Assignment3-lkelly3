@@ -22,7 +22,8 @@ namespace Fall2024_Assignment3_lkelly3.Controllers
         // GET: MovieActor
         public async Task<IActionResult> Index()
         {
-            return View(await _context.MovieActor.ToListAsync());
+            var applicationDbContext = _context.MovieActor.Include(c => c.Movies).Include(c => c.Actors);
+            return View(await applicationDbContext.ToListAsync());
         }
 
         // GET: MovieActor/Details/5
