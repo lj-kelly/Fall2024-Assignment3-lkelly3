@@ -46,7 +46,7 @@ namespace Fall2024_Assignment3_lkelly3.Services
 
             var messages = new List<ChatMessage>
             {
-                new SystemChatMessage("You are a movie reviewer. Write 20 short reviews for the given movie, and give each a star rating out of 5. Separate each review with '$$$' so they can be easily parsed."),
+                new SystemChatMessage("You are a movie reviewer. Write 20 short reviews for the given movie, and give each a star rating out of 5. Separate each review with '###' so they can be easily parsed."),
                 new UserChatMessage($"The movie title is '{title}'. Please write reviews for this movie.")
             };
 
@@ -93,7 +93,7 @@ namespace Fall2024_Assignment3_lkelly3.Services
         {
             var messages = new List<ChatMessage>
             {
-                new SystemChatMessage("You represent the Twitter social media platform. Write 20 short tweets about the given actor. Separate each review with '$$$' so they can be easily parsed."),
+                new SystemChatMessage("You represent the Twitter social media platform. Write 20 short tweets about the given actor. Separate each review with '###' so they can be easily parsed."),
                 new UserChatMessage($"The actor's name is '{name}'. Please write tweets about this actor.")
             };
 
@@ -117,7 +117,7 @@ namespace Fall2024_Assignment3_lkelly3.Services
                     string fullResponse = completion.Content.First().Text;
 
                     // Split the response based on the '###' separator
-                    var reviewArray = fullResponse.Split(new[] { "$$$" }, StringSplitOptions.RemoveEmptyEntries);
+                    var reviewArray = fullResponse.Split(new[] { "###" }, StringSplitOptions.RemoveEmptyEntries);
 
                     // Add each split review to the reviews list
                     for (int i = 0; i < reviewArray.Length; i++)
