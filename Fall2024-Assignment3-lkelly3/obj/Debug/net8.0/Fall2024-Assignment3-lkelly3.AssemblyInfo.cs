@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fall2024-Assignment3-lkelly3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a69e62869bc48f1a586da76bc922bfe1d1e885")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e66cdf59f37d9d82cc0d2acbbbccb59b372dcb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fall2024-Assignment3-lkelly3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fall2024-Assignment3-lkelly3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

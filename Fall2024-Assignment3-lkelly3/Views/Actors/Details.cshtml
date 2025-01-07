@@ -20,7 +20,9 @@
             @Html.DisplayNameFor(model => model.Actor.Link)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Actor.Link)
+            <!--@Html.DisplayFor(model => model.Actor.Link)-->
+            <!--Above line shows link text, but it is not a clickable hyperlink-->
+            <a href="@Model.Actor.Link" target="_blank">@Model.Actor.Link</a>
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Actor.Gender)
